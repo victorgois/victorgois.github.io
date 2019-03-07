@@ -1,14 +1,8 @@
-<footer>
-  <div class="footer-wrap">
-    <div class="footer-tagline">
-      <p>{{ site.data.settings.footer }}</p>
-    </div>
-    <div class="social-media">
-      <nav>
-        {% for item in site.data.settings.social %}
-          <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-        {% endfor %}
-      </nav>
-    </div>
-  </div>
+<footer class="footer">
+    <p>&copy; {{site.username}}</p>
+    <p>Build with Jekyll and <span class="love">❤</span> by <a href="https://github.com/nrandecker">Nathan Randecker</a></p>
 </footer>
+<script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script src="{{ "/assets/js/sweet-scroll.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+{% include google-analytics.html %}
