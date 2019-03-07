@@ -13,22 +13,8 @@ twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 
-future: true
-
 # Google-analytics
 google-analytics:
   id: ""
 
-#HEAD
 exclude: ['package.json', 'src' , 'node_modules']
-=======
-sass:
-  sass_dir: assets/css
-  style: :nested
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-
-title:		           "Victor Góis"
-description:	       "Jornalista de Dados | Desenvolvedor | Pesquisador"
-author:              "Victor Góis"
->>>>>>> ded546bf8b0e9d879d696239786dadb85732f93a
