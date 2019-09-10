@@ -1,13 +1,13 @@
 # Site settings
-title: Victor Góis de Oliveira Pacheco
+title: Victor Góis
 description: Criador Digital | Desenvolvedor | Video Maker | Jornalista | Pesquisador
 #baseurl: "/particle" # the subpath of your site, e.g. /blog
 #url: "https://victorgois.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Victor Góis de Oliveira Pacheco
+username: Victor Góis
 user_description: Sou pesquisador e produtor de tecnologia e cultura digital, de Belo Horizonte. Atuo com desenvolvimento e webdesign; edição e manipulação audiovisual; jornalismo e visualização de dados; automatização e inteligência de dados. Meus interesses de pesquisa passam por Cibercultura; Jornalismo de Dados; Arte Digital; Estudos Críticos de Novas Mídias, Hackativismo e Transmídia
-user_title: Jornalista | Desenvolvedor | Pesquisador | Video Maker no Digitalmente
+user_title: Jornalista | Desenvolvedor | Pesquisador | Video Maker
 email: victorgois18@gmail.com
 twitter_username: victorgoisp
 github_username: victorgois
