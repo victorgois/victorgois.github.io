@@ -35,5 +35,12 @@
 .user-info {
   text-align: center;
   margin: 5px auto;
-  display: flex;
+  justify-content: space-between;
+  p {
+    font-size: 16px;
+  }
+  @media only screen and (min-width: $cut) {
+    //flex-wrap: nowrap;
+    font-size: 75px;
+  }
 }
