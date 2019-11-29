@@ -4641,6 +4641,10 @@ sub, sup {
     margin: 20px auto
 }
 
+.user-cv {
+    text-align: center;
+}
+
 .user-projects img {
     max-width: 100%;
     height: auto;
